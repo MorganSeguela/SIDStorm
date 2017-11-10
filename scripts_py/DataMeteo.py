@@ -9,6 +9,7 @@ Created on Thu Nov  9 19:16:24 2017
     Import Packages
 ============================================================================"""
 
+import os
 import re
 import pandas as pd
 import utils_sidstorm as utils
@@ -57,4 +58,3 @@ class DataMeteo:
                          on = [["date", "insee", "ech"]])
         return resDf
     
-  

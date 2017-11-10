@@ -11,7 +11,7 @@ Created on Thu Nov  9 21:08:38 2017
 
 dict_insee = {
         "06088001": {"ville": "Nice",
-                    "call":["06"]},
+                     "call":["06"]},
         "31069001": {"ville" : "Toulouse-Blagnac",
                      "call": ["31", "tlse"]},
         "33281001": {"ville": "Bordeaux-Merignac",
